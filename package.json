@@ -1,6 +1,6 @@
 {
-  "name": "react-login-page",
-  "version": "0.1.0",
+  "name": "random-no",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
@@ -28,5 +28,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "> Simple login/register-page-app created with React js.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyaszm/react-login-register-page.git"
+  },
+  "author": "Shristi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyaszm/react-login-register-page/issues"
+  },
+  "homepage": "https://github.com/ilyaszm/react-login-register-page#readme",
+  "devDependencies": {},
+  "keywords": [
+    "random",
+    "no",
+    "generator"
+  ]
 }
